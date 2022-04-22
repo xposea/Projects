@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c4eb0e2-4d9a-4607-ac25-d3cff6ecb452" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DayOneAoC2021.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC/DayOneAoC2021.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +45,9 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DayOneAoC2021">
-    <configuration name="DayOneAoC2021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DayOneAoC2021" />
+  <component name="RunManager" selected="Application.AoC.DayOneAoC2021">
+    <configuration name="AoC.DayOneAoC2021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AoC.DayOneAoC2021" />
       <module name="Box" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,7 +62,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DayOneAoC2021" />
+        <item itemvalue="Application.AoC.DayOneAoC2021" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -79,7 +79,7 @@
       <workItem from="1650573534711" duration="4000" />
       <workItem from="1650573543228" duration="1000" />
       <workItem from="1650573634415" duration="370000" />
-      <workItem from="1650586040025" duration="1193000" />
+      <workItem from="1650586040025" duration="1846000" />
     </task>
     <servers />
   </component>
