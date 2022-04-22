@@ -33,7 +33,7 @@ public class DayOneAoC2021 {
         return part2;
     }
     public static void main(String[] args) throws Exception {
-        File input = new File("/Users/dylan/Library/CloudStorage/Box-Box/My Box Notes/Cylinder/Box/InputFiles/Day1.txt");
+        File input = new File("InputFiles/Day1.txt");
         System.out.println(Part1(input));
         System.out.println(Part2(input));
     }
