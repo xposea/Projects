@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6c4eb0e2-4d9a-4607-ac25-d3cff6ecb452" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AoC/DayOneAoC2021.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AoC/DayOneAoC2021.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +45,23 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DayTwoAoC2021">
+  <component name="RunManager" selected="Application.DayThreeAoC2021">
     <configuration name="AoC.DayOneAoC2021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AoC.DayOneAoC2021" />
       <module name="Box" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DayThreeAoC2021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AoC.DayThreeAoC2021" />
+      <module name="Box" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AoC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -76,6 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DayThreeAoC2021" />
         <item itemvalue="Application.DayTwoAoC2021" />
         <item itemvalue="Application.AoC.DayOneAoC2021" />
         <item itemvalue="Application.Test" />
@@ -95,7 +108,7 @@
       <workItem from="1650573543228" duration="1000" />
       <workItem from="1650573634415" duration="370000" />
       <workItem from="1650586040025" duration="2083000" />
-      <workItem from="1650589588440" duration="499000" />
+      <workItem from="1650589588440" duration="6947000" />
     </task>
     <servers />
   </component>
@@ -112,5 +125,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AoC/DayThreeAoC2021.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AoC/DayThreeAoC2021.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
