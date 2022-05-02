@@ -42,13 +42,27 @@
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DayThreeAoC2021">
+  <component name="RunManager" selected="Application.TestingForFriend">
     <configuration name="AoC.DayOneAoC2021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AoC.DayOneAoC2021" />
       <module name="Box" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DayFourAoc2021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AoC.DayFourAoc2021" />
+      <module name="Box" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AoC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -79,19 +93,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="TestingForFriend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OtherScripts.TestingForFriend" />
       <module name="Box" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OtherScripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestingForFriend" />
+        <item itemvalue="Application.DayFourAoc2021" />
         <item itemvalue="Application.DayThreeAoC2021" />
         <item itemvalue="Application.DayTwoAoC2021" />
         <item itemvalue="Application.AoC.DayOneAoC2021" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +129,16 @@
       <workItem from="1650573543228" duration="1000" />
       <workItem from="1650573634415" duration="370000" />
       <workItem from="1650586040025" duration="2083000" />
-      <workItem from="1650589588440" duration="6947000" />
+      <workItem from="1650589588440" duration="7663000" />
+      <workItem from="1650647976325" duration="3146000" />
+      <workItem from="1650670669642" duration="9000" />
+      <workItem from="1650772005670" duration="27000" />
+      <workItem from="1651097558718" duration="636000" />
+      <workItem from="1651242809389" duration="76000" />
+      <workItem from="1651242900122" duration="2395000" />
+      <workItem from="1651273765072" duration="5000" />
+      <workItem from="1651273814471" duration="21000" />
+      <workItem from="1651527065364" duration="31000" />
     </task>
     <servers />
   </component>
@@ -133,11 +163,6 @@
           <url>file://$PROJECT_DIR$/src/AoC/DayThreeAoC2021.java</url>
           <line>45</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/AoC/DayThreeAoC2021.java</url>
-          <line>77</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
